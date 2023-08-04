@@ -44,6 +44,9 @@ body{
     width: 35%;
     
  }
+ .escola-texto-um{
+   font-family: "Poppins";
+ }
  .escola-texto-dois{
    line-height: 5%;
    font-family: "Poppins";
