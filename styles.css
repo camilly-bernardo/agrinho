@@ -50,6 +50,7 @@ body{
  .escola-texto-dois{
    line-height: 5%;
    font-family: "Poppins";
+   width: 35%;
  }
  .escola-titulo{
     padding: 24px 0;
