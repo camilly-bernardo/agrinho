@@ -40,6 +40,9 @@ body{
     width: 35%;
     
  }
+ .escola-texto-dois{
+   line-height: 5%;
+ }
  .escola-titulo{
     padding: 24px 0;
  }
