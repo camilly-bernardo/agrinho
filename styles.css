@@ -46,9 +46,11 @@ body{
  }
  .escola-texto-dois{
    line-height: 5%;
+   font-family: "Poppins";
  }
  .escola-titulo{
     padding: 24px 0;
+    font-family: "Poppins";
  }
  .estudante-imagem{
     width: 120px;
