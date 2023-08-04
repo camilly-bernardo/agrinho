@@ -58,7 +58,9 @@ body{
  .estudante-imagem{
     width: 120px;
  }
- 
+ .estudante-titulo{
+   font-family: "Poppins";
+ }
  .estudante-div{
     text-align: center;    
  }
